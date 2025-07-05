@@ -1,5 +1,6 @@
 from collections import Counter
 
+# Calculamos uma penalidade com base na comparação nos valores da turma com os limites de piso e teto definidos em geral.
 
 def calcula_penalidade(turma, geral):
     penalidade = 0
